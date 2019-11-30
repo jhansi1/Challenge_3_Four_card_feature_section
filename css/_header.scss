@@ -1,0 +1,8 @@
+header{
+
+    @include breakpoint(large){
+        width: 50%;
+        margin: 0 auto;
+    }
+   
+}
